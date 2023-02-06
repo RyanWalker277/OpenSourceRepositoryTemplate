@@ -1,5 +1,5 @@
 # reponame
-reponame is a sever side script which helps in deployment of Django apps.As  a beginner , you can deploy your django app easily on any linux machine using reponame.It automates the hefty and tiring process of deploying django based web applications over any linux machine , thus relieving new developers of the worry of deploying their django apps
+Description of your repository
 
 [![GitHub issues](https://img.shields.io/github/issues/repoowner/reponame)](https://github.com/repoowner/reponame/issues)
 [![GitHub forks](https://img.shields.io/github/forks/repoowner/reponame)](https://github.com/repoowner/reponame/network)
